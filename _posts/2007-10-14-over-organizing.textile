@@ -1,0 +1,14 @@
+---
+layout: post
+title: "over organizing"
+---
+
+h1. {{ page.title }}
+
+Has it ever occurred to you that there is <strong>always</strong> a blog posting about productivity? I always see <a href="http://del.icio.us/popular/">del.icio.us popular</a> having a link to something regarding how to accomplish your work more effectively. I swear I've read so many that not only has it taught me that I need to have a certain type of <a href="http://www.jetpens.com/">pens</a> and <a href="http://www.moleskine.com/eng/default.htm">moleskine</a> wherever I go, but the countless hours of productivity to reading such posts has got to be insurmountable to what could have been accomplished.
+
+You could place me on a "me too" list if you'd like, but after spending this past summer with <a href="http://corp.embark.com/">Embark</a> in San Francisco, the start-up bug has bitten me. Sitting and reading <a href="http://www.paulgraham.com/notnot.html">one</a> of <a href="http://www.paulgraham.com/articles.html">many</a> Paul Graham's articles only does so much - the drive is what counts. Can I do what it takes to succeed? Can I <a href="http://evhead.com/2005/11/ten-rules-for-web-startups.asp">learn from others</a> and be able to successfully channel so much that I have in terms of people and resources? The most successful have had many things working against them, and that stress caused opportunities to present themselves to allow them to succeed.
+	
+How can one generate a pressure-cooker from which something can come out of?
+	
+I'll be attacking the <a href="http://groups.google.com/group/twitter-development-talk/web/api-documentation">Twitter API</a> as well as <a href="http://developer.yahoo.com/python/python-rest.html">Yahoo's</a>, experimenting with <a href="http://python.org/">Python</a> and the <a href="http://pylonshq.com/">Pylons Web Framework</a> with connections to <a href="http://www.sqlalchemy.org/">SQLAlchemy</a>.  Throwing a bunch of technologies together does not by any means guarantee something to be formed instantly, but only time will tell.

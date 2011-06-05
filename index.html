@@ -1,0 +1,11 @@
+---
+layout: basic
+title: home
+---
+<h2>most recent:</h2>
+{% for post in site.posts limit:1 %}
+  <div class="post">
+  {{ post.content }}
+  <p><a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a></p>
+  </div>
+{% endfor %}

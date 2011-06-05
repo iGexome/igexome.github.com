@@ -1,0 +1,10 @@
+---
+layout: post
+title: "domains to buy"
+---
+
+h1. {{ page.title }}
+
+How could one not have purchased InternetPaper.com - it could be the most revolutionary new web application the planet has seen.  I mean, its the internet - there is no paper on there. It's not e-paper, those overpriced ultra-thin bits of technology that a handful of people have decided to read their free books from <a href="http://www.gutenberg.org/">Project Gutenburg</a> on.
+
+I think the sheer polarization of the two words fascinate me. I wonder what I could put there.

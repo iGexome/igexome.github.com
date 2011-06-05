@@ -1,0 +1,10 @@
+---
+layout: post
+title: "i'll remember this day"
+---
+
+I've been fairly lax about writing since arriving out in San Francisco at the end of June. Some of it is reasonable - setting up new apartment, beginning a job at a startup, and attempted to explore the vast number of restaurants and bars that exist around me.
+
+Recently, my perspective has been shook up a bit. The economy has taken a downturn and will most likely be limping along, if not getting worse, for the next six months. I felt like being at a small tech company with funding, was akin to having immunity. Not the case at <strong>all</strong>. Being part of a <a href="http://www.sequoiacap.com/company/widgetbox/">Sequoia-backed</a> company, the message was crystal clear - monetize! The accusations that scaremongering is taking place is summed up well by <a href="http://www.avc.com/a_vc/2008/10/dont-shoot-the.html#comment-2999607">Fred Wilson</a>: "If they shouted fire, it was in a private room not a theater."  The deck <a href="http://www.slideshare.net/eldon/sequoia-capital-on-startups-and-the-economic-downturn-presentation?type=powerpoint">that was leaked</a> with slide after slide of downward slopes was not filled with projections, but with current data. The lack of commentary with the deck has been causing many to flip out thinking the end is near for small companies. It will be for those that still believe they need to grow a user base for a something dubbed the "next cool web thing" when no viable business plan is on the table. For the rest of us, it's time to get real.
+
+I know I'll look back at what took place over the last few days and do my damnedest to remember what was going through my head at this time.

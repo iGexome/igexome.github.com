@@ -1,0 +1,10 @@
+---
+layout: post
+title: "first post"
+---
+
+h1. {{ page.title }}
+
+The high tech world these days has been exposing the daily lives of a VC in the valley as well as the random idea that gets off the ground and forms a "startup". I find that <a href="http://www.paulgraham.com/">Paul Graham</a> and <a href="http://ycombinator.com/">Y Combinator</a> as a "venture accelerator" has shown the world the barrier of entry is incredibly low and when given a little one can go for miles. It seems so "easy" that even I am considering pursuing early stage funding from YC for next summer, as one of many venues for a project that could easily stand up to many companies that exist today. I have seen so many companies appear in my RSS feeds that are worse than a new product in a new market - actually, nothing is riskier than that. These poor companies sincerely believe that their business plan doesn't have to exist and their idea will be purchased by the big three - MS, Yahoo, or Google.  We see the trend of buying new ideas (a shift away from new technology) as something that these big three need to do to stay competitive.
+
+The young entrepreneur shouldn't have to sell themselves out to someone else for their benefit - thinking it is a great way to "strike it rich" *may* be true, but what will it get you? Like <a href="http://dodgeball.com/">dodgeball.com</a>, the <a href="http://flickr.com/photos/dpstyles/460987802/">founders left</a> after seeing how frustrating the direction of their product became. Sure, they had job stability and a great influx of money, but their dream product crumbled before them. One should be hoping to not be bought out, but eventually become <span style="font-style:italic;">that</span> company that becomes a household name.<br/><br/>I'm frightened of this crowded space <a href="http://avc.blogs.com/a_vc/2007/10/web-startups-ar.html">truly being overrun</a> by lackluster companies, making life just that much harder for those who aren't in it for the quick turnaround.

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "techcrunch: boston meetup"
+---
+
+h1. {{ page.title }}
+
+Been back in the Boston-area for a few days since the end of my fall quarter at <a href="http://www.rit.edu">RIT</a>, and my first big event that I'm psyched to go out for is <a href="http://www.techcrunch.com/techcrunch-meetup-11-with-idg-ventures-boston/">TechCrunch's 11th MeetUp</a> where all sorts of new-age tech people will be mingling.  Always good to brush up on introductions and learn how to pitch and meet people - we'll see how tonight goes.  Maybe I'll make a connection that will change the course of my future (hopefully for the better!) or perhaps give some beneficial advice. Tonight will help me jumpstart many things I've been needing to do, and now that I'm home I can make great use of it.
+
+People are able to create some amazing things in a weekend - lets see what I can do with a lot more time.
+
+Followup:
+
+The <a href="http://www.techcrunch.com/techcrunch-meetup-11-with-idg-ventures-boston">MeetUp</a> last night was interesting - the crowd was definitely a bit older than I expected, but then again its New England vs. Silicon Valley. Not much to report besides meeting a few people and having some pretty good chats expressing my thoughts and in the process learning how to start up on a conversation at a place that promotes everyone interacting with each other.
+
+Next up - python hackathon. I'll be screwing around working on a project that may have some merit and I have been using <a href="http://www.devjavu.com/">Devjavu</a> as an externally-hosted <a href="http://trac.edgewall.org/">Trac</a>/<a href="http://subversion.tigris.org/">Subversion</a> provider.  So far, it has worked out pretty well, but only now have I just begun to realize how convenient it is and I'll be plowing away playing with it. Who knows when I'll stop - it's been a while since I've done something like this.
+
+And again:
+
+<a href="http://flickr.com/photos/15965854@N04/2041535900/">Can you find me?</a> Picture taken at the TechCrunch Boston MeetUp!

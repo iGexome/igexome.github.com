@@ -1,0 +1,10 @@
+---
+layout: post
+title: "no laptop time"
+---
+
+Family vacation tomorrow for a few days, before back in Massachusetts to continue onwards with my ridiculously long Thanksgiving break. I'll get my head out of being buried in the latest internet happenings and unwind (as if I haven't enough already). Let me commit to something to build right now for when I get back.  All this work I've done in a sandbox environment will be now bumped up to a more public-facing arena.  Only issue - hosting! This blog (at time of writing) is hosted in space given to me from <a href="http://www.csh.rit.edu">CSH</a>, but I don't have the same freedom as a provider that gives me link this domain's DNS to it and control my virtual hosts and databases and basically be able to fully run my own little kingdom.
+
+Anyways. Things to do.
+
+Well, when I was younger I would throw a mix of languages and/or technologies together and expect something to just appear. So I'll say I want to build a feedback system.  Something where I could drop a link onto a page and with one click allows the user to interact with it. Maybe force the user via a modal system similar to <a href="http://www.huddletogether.com/projects/lightbox/">Lightbox</a> or just send the user to a generated page to enter in some information.  The information would be then thrown in a db and pulled up via another web-based interface where they could be looked at akin to a rudimentary bug tracking system where they could be tagged, filtered, and managed. I'll see what I can come up with in Python using Pylons and then use that as a baseline to see how fast it can be replicated in Ruby with Ruby on Rails.  They both follow the same MVC pattern, so the model is structured outside of it, and the view may also be remarkably similar.  I expect to have a solid implementation in at least Python by the end of next week.

@@ -1,0 +1,53 @@
+---
+layout: post
+title: "a collection of letters"
+---
+
+h1. {{ page.title }}
+
+Dear <a href="http://www.python.org/">Python</a>,
+I apologize for making fun of you at a younger age, pretending to press the <a href="http://en.wikipedia.org/wiki/Python_syntax_and_semantics#Indentation">tab key</a> whenever someone would make reference to you. That's just not cool. I feel that you haven't been able to get respect from me until recently, and I need to somehow make up for it. How about dinner sometime? Perhaps you would enjoy me simply using you to the fullest extent. No, not in that way. Maybe you will cause me to lose sleep and bow down to your power. I do promise to put a little logo of you on any project. It will be a badge of honor!
+
+Yours truly,
+	Brady
+	
+<hr/>
+	
+	Dear <a href="http://www.drinkessn.com/">Essn</a>,
+	Why did UPS cause you to explode in your last shipment? My roommate and I were in the fetal position waiting for <a href="http://www.amazon.com/Essn-Sparkling-Apple-Juice-8-4-Ounce/dp/B000BDHBWG/ref=pd_bbs_sr_1/102-8660258-0864103?ie=UTF8&amp;s=grocery&amp;qid=1192893172&amp;sr=8-1">Amazon</a> to send us another case. Your 250ml cans of sparkling fuji apple juice is almost the nectar of the Gods. You're close, so thats something to feel proud of.
+	
+	Sincerely,
+	Brady
+	
+<hr/>
+	
+Dear Roommates,
+	Thank you for feeding me when I was going to survive off cashews, raisins and <a href="http://www.redbull.com/">Red Bull</a>. Chicken Alfredo pasta beats <a href="http://www.kashi.com/">Kashi bars</a> any day.
+	
+	Thanks,
+	Brady
+	p.s. Yes, I've shaved finally.
+	
+<hr/>
+	
+Dear <a href="http://en.wikipedia.org/wiki/Design_pattern_%28computer_science%29">Design Patterns</a>,
+	Wouldn't it be something if I could use the <a href="http://en.wikipedia.org/wiki/Command_pattern">Command pattern</a> to send notification data over the <a href="http://en.wikipedia.org/wiki/Observer_pattern">Observer pattern</a> when the <a href="http://en.wikipedia.org/wiki/Visitor_pattern">Visitor pattern</a> is run over my <a href="http://en.wikipedia.org/wiki/Composite_pattern">Composite pattern</a> structure? Obviously this would be only one of the many <a href="http://en.wikipedia.org/wiki/Strategy_pattern">Strategy patterns</a> maintained by our <a href="http://en.wikipedia.org/wiki/State_pattern">State pattern</a>. If I didn't use the <a href="http://en.wikipedia.org/wiki/Template_method_pattern">Template pattern</a> to design this, I end up having a shoddy interface and probably end up instantiating multiple types via the <a href="http://en.wikipedia.org/wiki/Factory_method_pattern">Factory pattern</a>. I could explain more about my subsystems but I'll wrap them in a <a href="http://en.wikipedia.org/wiki/Facade_pattern">Facade pattern</a> and say that the many more exist and all are used. Sometimes twice. At the same time. Even without me knowing. Ugh. Actually, you just suck.
+	
+	Gushing with love,
+	Brady
+		
+<hr/>
+		
+Dear <a href="http://www.stridegum.com/">Stride Gum</a>,
+		Your <a href="http://youtube.com/watch?v=LsvLeB-YdSM">commercials</a> are <a href="http://youtube.com/watch?v=WnSLXYCMYGQ">misleading</a>. Clever marketing, though. Maybe if you embed more reverse psychology on the consumers of America we'll be trapped and be programmed to purchase it in bulk. I've found that it only lasts almost exactly one hour and fifty minutes, which is the length of a class here at <a href="http://www.rit.edu">RIT</a> and has been able to <a href="http://www.ehow.com/how_2059322_awake-driving-sitting-meetings-etc.html">get me through some classes</a>. One downside - as soon as the flavor is gone, it tastes like I'm chewing a tire. Not cool, not cool.
+		
+		A Dedicated Chewer,
+		Brady
+		
+<hr/>
+		
+Dear Crazy Girl,
+	You're freaking crazy.
+	
+	Much Love,
+		Brady

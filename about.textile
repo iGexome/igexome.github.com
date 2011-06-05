@@ -1,0 +1,31 @@
+---
+layout: post
+title: about me
+---
+
+h1. Who am I?
+
+<strong>I’m Brady!</strong>
+
+I’m a software developer at Widgetbox.com in San Francisco and I’m diving into the evolving world of widgets and how they are shaping the future of the Internet landscape. I hope to take this blog in the direction of discussing the technology and implications of forming a widgitized web. I graduated from the Rochester Institute of Technology, and received a BS in Computer Science with minor in Philosophy in May of 2008.
+
+I’m an avid runner, enjoy excellent wines, and read whatever I can get my hands on. I’m an alum of the Computer Science House at RIT and will give it credit for giving me the opportunity to be around and learn from some extraordinary people.
+
+<strong>A Little Bit Of History</strong>
+
+Computing has been in my blood on both sides of the family.
+
+I remember watching my dad install our first Creative SB16 sound card with the talking parrot and I could hear it speak! I also had played my fair share of learning games, but it wasn’t truly a hobby until I sacrificed recess in fifth grade to code in BASIC on the two Apple IIs I had access to in our classroom. This shortly migrated to home where I kicked off a journey of learning, building, and experimenting.
+
+I started Kids Wizardry, a “computer game company for kids by kids” where I tried to distribute text-based adventure games in my elementary school cafeteria. Sadly, the lunch ladies did not approve of me trying to do such a thing. After a summer of ACE Computer Camp (now defunct) and a new obsession of using existing 3D engines to create a computer game, GPro Interactive was formed in middle school.
+
+The only other technology-savvy person in my grade had a competing “business”, with web pages showing off every new DHTML code snippet that became popular. I had to keep up with the times, forming another “company” called iNet Pulsar (take a wild guess as to where the idea for the lowercase “i” came from) and even getting a free domain in the process (who didn’t love the .com bubble?). None of these “companies” sold a dime, but they existed in some sense of the word and me striving to learn to lead something has come a long ways.
+
+<strong>Contact</strong>
+
+Like any good web socialite these days, you can find me on LinkedIn, Facebook and Twitter
+Feel free to chat me up: brady [AT] csh [DOT] rit [DOT] edu
+
+<strong>Etc</strong>
+
+Also, all thoughts, posts, and discussions that take place here are done without me being an official representative of my employers, past or present.
